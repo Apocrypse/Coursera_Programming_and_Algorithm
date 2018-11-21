@@ -24,7 +24,15 @@
   <Project Name="ride_and_walk" Path="../01Introduction_to_Computation_and_C_programming/ride_and_walk/ride_and_walk.project" Active="No"/>
   <Project Name="buy_house" Path="../01Introduction_to_Computation_and_C_programming/buy_house/buy_house.project" Active="No"/>
   <Project Name="two_sum" Path="../01Introduction_to_Computation_and_C_programming/two_sum/two_sum.project" Active="No"/>
-  <Project Name="self_divisor" Path="../01Introduction_to_Computation_and_C_programming/self_divisor/self_divisor.project" Active="Yes"/>
+  <Project Name="self_divisor" Path="../01Introduction_to_Computation_and_C_programming/self_divisor/self_divisor.project" Active="No"/>
+  <Project Name="count_letters" Path="../01Introduction_to_Computation_and_C_programming/count_letters/count_letters.project" Active="No"/>
+  <Project Name="string_compare" Path="../01Introduction_to_Computation_and_C_programming/string_compare/string_compare.project" Active="No"/>
+  <Project Name="longest_word" Path="../01Introduction_to_Computation_and_C_programming/longest_word/longest_word.project" Active="No"/>
+  <Project Name="swap_row_of_matrix" Path="../01Introduction_to_Computation_and_C_programming/swap_row_of_matrix/swap_row_of_matrix.project" Active="No"/>
+  <Project Name="detect_cell" Path="../01Introduction_to_Computation_and_C_programming/detect_cell/detect_cell.project" Active="No"/>
+  <Project Name="cyclic_movement" Path="../01Introduction_to_Computation_and_C_programming/cyclic_movement/cyclic_movement.project" Active="No"/>
+  <Project Name="median" Path="../01Introduction_to_Computation_and_C_programming/median/median.project" Active="No"/>
+  <Project Name="trees_and_subway" Path="../01Introduction_to_Computation_and_C_programming/trees_and_subway/trees_and_subway.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -54,6 +62,15 @@
       <Project Name="buy_house" ConfigName="Debug"/>
       <Project Name="two_sum" ConfigName="Debug"/>
       <Project Name="self_divisor" ConfigName="Debug"/>
+      <Project Name="count_letters" ConfigName="Debug"/>
+      <Project Name="string_compare" ConfigName="Debug"/>
+      <Project Name="string_compare" ConfigName="Debug"/>
+      <Project Name="longest_word" ConfigName="Debug"/>
+      <Project Name="swap_row_of_matrix" ConfigName="Debug"/>
+      <Project Name="detect_cell" ConfigName="Debug"/>
+      <Project Name="cyclic_movement" ConfigName="Debug"/>
+      <Project Name="median" ConfigName="Debug"/>
+      <Project Name="trees_and_subway" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -83,6 +100,15 @@
       <Project Name="buy_house" ConfigName="Release"/>
       <Project Name="two_sum" ConfigName="Release"/>
       <Project Name="self_divisor" ConfigName="Release"/>
+      <Project Name="count_letters" ConfigName="Release"/>
+      <Project Name="string_compare" ConfigName="Release"/>
+      <Project Name="string_compare" ConfigName="Release"/>
+      <Project Name="longest_word" ConfigName="Release"/>
+      <Project Name="swap_row_of_matrix" ConfigName="Release"/>
+      <Project Name="detect_cell" ConfigName="Release"/>
+      <Project Name="cyclic_movement" ConfigName="Release"/>
+      <Project Name="median" ConfigName="Release"/>
+      <Project Name="trees_and_subway" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
