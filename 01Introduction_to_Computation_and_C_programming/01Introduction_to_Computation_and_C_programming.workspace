@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Cpp" Database="" Version="10.0.0">
+  <Project Name="age_and_illness" Path="../01Introduction_to_Computation_and_C_programming/age_and_illness/age_and_illness.project" Active="No"/>
+  <Project Name="apple_and_worm" Path="../01Introduction_to_Computation_and_C_programming/apple_and_worm/apple_and_worm.project" Active="No"/>
+  <Project Name="bubble_sort" Path="../01Introduction_to_Computation_and_C_programming/bubble_sort/bubble_sort.project" Active="No"/>
+  <Project Name="count_integer" Path="../01Introduction_to_Computation_and_C_programming/count_integer/count_integer.project" Active="No"/>
+  <Project Name="count_one" Path="../01Introduction_to_Computation_and_C_programming/count_one/count_one.project" Active="No"/>
+  <Project Name="dating" Path="../01Introduction_to_Computation_and_C_programming/dating/dating.project" Active="No"/>
+  <Project Name="drink_water" Path="../01Introduction_to_Computation_and_C_programming/drink_water/drink_water.project" Active="No"/>
+  <Project Name="experimental_group" Path="../01Introduction_to_Computation_and_C_programming/experimental_group/experimental_group.project" Active="No"/>
+  <Project Name="find_kth_max" Path="../01Introduction_to_Computation_and_C_programming/find_kth_max/find_kth_max.project" Active="No"/>
+  <Project Name="fraction_sum" Path="../01Introduction_to_Computation_and_C_programming/fraction_sum/fraction_sum.project" Active="No"/>
+  <Project Name="grader" Path="../01Introduction_to_Computation_and_C_programming/grader/grader.project" Active="No"/>
+  <Project Name="highest_score" Path="../01Introduction_to_Computation_and_C_programming/highest_score/highest_score.project" Active="No"/>
+  <Project Name="joseph" Path="../01Introduction_to_Computation_and_C_programming/joseph/joseph.project" Active="No"/>
+  <Project Name="odd_even_sort" Path="../01Introduction_to_Computation_and_C_programming/odd_even_sort/odd_even_sort.project" Active="No"/>
+  <Project Name="odd_even_sort2" Path="../01Introduction_to_Computation_and_C_programming/odd_even_sort2/odd_even_sort2.project" Active="No"/>
+  <Project Name="odd_sum" Path="../01Introduction_to_Computation_and_C_programming/odd_sum/odd_sum.project" Active="No"/>
+  <Project Name="payment" Path="../01Introduction_to_Computation_and_C_programming/payment/payment.project" Active="No"/>
+  <Project Name="Racing_and_experts" Path="../01Introduction_to_Computation_and_C_programming/racing_and_experts/Racing_and_experts.project" Active="No"/>
+  <Project Name="reverse_array" Path="../01Introduction_to_Computation_and_C_programming/reverse_array/reverse_array.project" Active="No"/>
+  <Project Name="separate_digits" Path="../01Introduction_to_Computation_and_C_programming/separate_digits/separate_digits.project" Active="No"/>
+  <Project Name="limit_sum" Path="../01Introduction_to_Computation_and_C_programming/limit_sum/limit_sum.project" Active="No"/>
+  <Project Name="ride_and_walk" Path="../01Introduction_to_Computation_and_C_programming/ride_and_walk/ride_and_walk.project" Active="No"/>
+  <Project Name="buy_house" Path="../01Introduction_to_Computation_and_C_programming/buy_house/buy_house.project" Active="No"/>
+  <Project Name="two_sum" Path="../01Introduction_to_Computation_and_C_programming/two_sum/two_sum.project" Active="No"/>
+  <Project Name="self_divisor" Path="../01Introduction_to_Computation_and_C_programming/self_divisor/self_divisor.project" Active="No"/>
+  <Project Name="count_letters" Path="../01Introduction_to_Computation_and_C_programming/count_letters/count_letters.project" Active="No"/>
+  <Project Name="string_compare" Path="../01Introduction_to_Computation_and_C_programming/string_compare/string_compare.project" Active="No"/>
+  <Project Name="longest_word" Path="../01Introduction_to_Computation_and_C_programming/longest_word/longest_word.project" Active="No"/>
+  <Project Name="swap_row_of_matrix" Path="../01Introduction_to_Computation_and_C_programming/swap_row_of_matrix/swap_row_of_matrix.project" Active="No"/>
+  <Project Name="detect_cell" Path="../01Introduction_to_Computation_and_C_programming/detect_cell/detect_cell.project" Active="No"/>
+  <Project Name="cyclic_movement" Path="../01Introduction_to_Computation_and_C_programming/cyclic_movement/cyclic_movement.project" Active="No"/>
+  <Project Name="median" Path="../01Introduction_to_Computation_and_C_programming/median/median.project" Active="No"/>
+  <Project Name="trees_and_subway" Path="../01Introduction_to_Computation_and_C_programming/trees_and_subway/trees_and_subway.project" Active="No"/>
+  <Project Name="leap_year" Path="../01Introduction_to_Computation_and_C_programming/leap_year/leap_year.project" Active="No"/>
+  <Project Name="three_five_seven" Path="../01Introduction_to_Computation_and_C_programming/three_five_seven/three_five_seven.project" Active="No"/>
+  <Project Name="longest_distance" Path="../01Introduction_to_Computation_and_C_programming/longest_distance/longest_distance.project" Active="No"/>
+  <Project Name="simple_calculator" Path="../01Introduction_to_Computation_and_C_programming/simple_calculator/simple_calculator.project" Active="No"/>
+  <Project Name="string_insertion" Path="../01Introduction_to_Computation_and_C_programming/string_insertion/string_insertion.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="age_and_illness" ConfigName="Debug"/>
+      <Project Name="apple_and_worm" ConfigName="Debug"/>
+      <Project Name="bubble_sort" ConfigName="Debug"/>
+      <Project Name="count_integer" ConfigName="Debug"/>
+      <Project Name="count_one" ConfigName="Debug"/>
+      <Project Name="dating" ConfigName="Debug"/>
+      <Project Name="drink_water" ConfigName="Debug"/>
+      <Project Name="odd_even_absolute_difference" ConfigName="Debug"/>
+      <Project Name="experimental_group" ConfigName="Debug"/>
+      <Project Name="find_kth_max" ConfigName="Debug"/>
+      <Project Name="fraction_sum" ConfigName="Debug"/>
+      <Project Name="grader" ConfigName="Debug"/>
+      <Project Name="highest_score" ConfigName="Debug"/>
+      <Project Name="joseph" ConfigName="Debug"/>
+      <Project Name="odd_even_sort" ConfigName="Debug"/>
+      <Project Name="odd_even_sort2" ConfigName="Debug"/>
+      <Project Name="odd_sum" ConfigName="Debug"/>
+      <Project Name="payment" ConfigName="Debug"/>
+      <Project Name="racing_and_experts" ConfigName="Debug"/>
+      <Project Name="reverse_array" ConfigName="Debug"/>
+      <Project Name="separate_digits" ConfigName="Debug"/>
+      <Project Name="limit_sum" ConfigName="Debug"/>
+      <Project Name="ride_and_walk" ConfigName="Debug"/>
+      <Project Name="buy_house" ConfigName="Debug"/>
+      <Project Name="two_sum" ConfigName="Debug"/>
+      <Project Name="self_divisor" ConfigName="Debug"/>
+      <Project Name="count_letters" ConfigName="Debug"/>
+      <Project Name="string_compare" ConfigName="Debug"/>
+      <Project Name="string_compare" ConfigName="Debug"/>
+      <Project Name="longest_word" ConfigName="Debug"/>
+      <Project Name="swap_row_of_matrix" ConfigName="Debug"/>
+      <Project Name="detect_cell" ConfigName="Debug"/>
+      <Project Name="cyclic_movement" ConfigName="Debug"/>
+      <Project Name="median" ConfigName="Debug"/>
+      <Project Name="trees_and_subway" ConfigName="Debug"/>
+      <Project Name="leap_year" ConfigName="Debug"/>
+      <Project Name="three_five_seven" ConfigName="Debug"/>
+      <Project Name="longest_distance" ConfigName="Debug"/>
+      <Project Name="simple_calculator" ConfigName="Debug"/>
+      <Project Name="string_insertion" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="age_and_illness" ConfigName="Release"/>
+      <Project Name="apple_and_worm" ConfigName="Release"/>
+      <Project Name="bubble_sort" ConfigName="Release"/>
+      <Project Name="count_integer" ConfigName="Release"/>
+      <Project Name="count_one" ConfigName="Release"/>
+      <Project Name="dating" ConfigName="Release"/>
+      <Project Name="drink_water" ConfigName="Release"/>
+      <Project Name="odd_even_absolute_difference" ConfigName="Release"/>
+      <Project Name="experimental_group" ConfigName="Release"/>
+      <Project Name="find_kth_max" ConfigName="Release"/>
+      <Project Name="fraction_sum" ConfigName="Release"/>
+      <Project Name="grader" ConfigName="Release"/>
+      <Project Name="highest_score" ConfigName="Release"/>
+      <Project Name="joseph" ConfigName="Release"/>
+      <Project Name="odd_even_sort" ConfigName="Release"/>
+      <Project Name="odd_even_sort2" ConfigName="Release"/>
+      <Project Name="odd_sum" ConfigName="Release"/>
+      <Project Name="payment" ConfigName="Release"/>
+      <Project Name="racing_and_experts" ConfigName="Release"/>
+      <Project Name="reverse_array" ConfigName="Release"/>
+      <Project Name="separate_digits" ConfigName="Release"/>
+      <Project Name="limit_sum" ConfigName="Release"/>
+      <Project Name="ride_and_walk" ConfigName="Release"/>
+      <Project Name="buy_house" ConfigName="Release"/>
+      <Project Name="two_sum" ConfigName="Release"/>
+      <Project Name="self_divisor" ConfigName="Release"/>
+      <Project Name="count_letters" ConfigName="Release"/>
+      <Project Name="string_compare" ConfigName="Release"/>
+      <Project Name="string_compare" ConfigName="Release"/>
+      <Project Name="longest_word" ConfigName="Release"/>
+      <Project Name="swap_row_of_matrix" ConfigName="Release"/>
+      <Project Name="detect_cell" ConfigName="Release"/>
+      <Project Name="cyclic_movement" ConfigName="Release"/>
+      <Project Name="median" ConfigName="Release"/>
+      <Project Name="trees_and_subway" ConfigName="Release"/>
+      <Project Name="leap_year" ConfigName="Release"/>
+      <Project Name="three_five_seven" ConfigName="Release"/>
+      <Project Name="longest_distance" ConfigName="Release"/>
+      <Project Name="simple_calculator" ConfigName="Release"/>
+      <Project Name="string_insertion" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
