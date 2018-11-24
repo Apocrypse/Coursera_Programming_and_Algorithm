@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="D:\OneDrive\Study\MOOC\Coursera\Programming_and_Algorithm\01Introduction_to_Computation_and_C_programming\Cpp.workspace">
+<Session Name="D:\OneDrive\Study\MOOC\Coursera\Programming_and_Algorithm\01Introduction_to_Computation_and_C_programming\01Introduction_to_Computation_and_C_programming.workspace">
   <int Value="0" Name="m_selectedTab"/>
-  <wxString Value="D:\OneDrive\Study\MOOC\Coursera\Programming_and_Algorithm\01Introduction_to_Computation_and_C_programming\Cpp.workspace" Name="m_workspaceName"/>
+  <wxString Value="D:\OneDrive\Study\MOOC\Coursera\Programming_and_Algorithm\01Introduction_to_Computation_and_C_programming\01Introduction_to_Computation_and_C_programming.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="D:\OneDrive\Study\MOOC\Coursera\Programming_and_Algorithm\01Introduction_to_Computation_and_C_programming\string_insertion\main.cpp" Name="FileName"/>
-      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
       <int Value="10" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>

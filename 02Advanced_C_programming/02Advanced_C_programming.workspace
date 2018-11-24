@@ -1,2 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="02Advanced_C_programming" Database="" Version="10.0.0"/>
+<CodeLite_Workspace Name="02Advanced_C_programming" Database="" Version="10.0.0">
+  <Project Name="find_index" Path="find_index/find_index.project" Active="No"/>
+  <Project Name="four_lakes" Path="four_lakes/four_lakes.project" Active="No"/>
+  <Project Name="invoice_statistics" Path="invoice_statistics/invoice_statistics.project" Active="No"/>
+  <Project Name="tomorrow_never_knows" Path="tomorrow_never_knows/tomorrow_never_knows.project" Active="Yes"/>
+  <Project Name="experimental_group" Path="experimental_group/experimental_group.project" Active="No"/>
+  <Project Name="influenza_infection" Path="influenza_infection/influenza_infection.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="find_index" ConfigName="Debug"/>
+      <Project Name="four_lakes" ConfigName="Debug"/>
+      <Project Name="invoice_statistics" ConfigName="Debug"/>
+      <Project Name="tomorrow_never_knows" ConfigName="Debug"/>
+      <Project Name="experimental_group" ConfigName="Debug"/>
+      <Project Name="influenza_infection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="find_index" ConfigName="Release"/>
+      <Project Name="four_lakes" ConfigName="Release"/>
+      <Project Name="invoice_statistics" ConfigName="Release"/>
+      <Project Name="tomorrow_never_knows" ConfigName="Release"/>
+      <Project Name="experimental_group" ConfigName="Release"/>
+      <Project Name="influenza_infection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
