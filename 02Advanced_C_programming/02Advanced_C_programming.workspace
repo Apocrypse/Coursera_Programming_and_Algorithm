@@ -3,9 +3,12 @@
   <Project Name="find_index" Path="find_index/find_index.project" Active="No"/>
   <Project Name="four_lakes" Path="four_lakes/four_lakes.project" Active="No"/>
   <Project Name="invoice_statistics" Path="invoice_statistics/invoice_statistics.project" Active="No"/>
-  <Project Name="tomorrow_never_knows" Path="tomorrow_never_knows/tomorrow_never_knows.project" Active="Yes"/>
+  <Project Name="tomorrow_never_knows" Path="tomorrow_never_knows/tomorrow_never_knows.project" Active="No"/>
   <Project Name="experimental_group" Path="experimental_group/experimental_group.project" Active="No"/>
   <Project Name="influenza_infection" Path="influenza_infection/influenza_infection.project" Active="No"/>
+  <Project Name="word_reverse" Path="word_reverse/word_reverse.project" Active="No"/>
+  <Project Name="collatz_conjecture" Path="collatz_conjecture/collatz_conjecture.project" Active="No"/>
+  <Project Name="queue_pair" Path="queue_pair/queue_pair.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -15,6 +18,9 @@
       <Project Name="tomorrow_never_knows" ConfigName="Debug"/>
       <Project Name="experimental_group" ConfigName="Debug"/>
       <Project Name="influenza_infection" ConfigName="Debug"/>
+      <Project Name="word_reverse" ConfigName="Debug"/>
+      <Project Name="collatz_conjecture" ConfigName="Debug"/>
+      <Project Name="queue_pair" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -24,6 +30,9 @@
       <Project Name="tomorrow_never_knows" ConfigName="Release"/>
       <Project Name="experimental_group" ConfigName="Release"/>
       <Project Name="influenza_infection" ConfigName="Release"/>
+      <Project Name="word_reverse" ConfigName="Release"/>
+      <Project Name="collatz_conjecture" ConfigName="Release"/>
+      <Project Name="queue_pair" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
