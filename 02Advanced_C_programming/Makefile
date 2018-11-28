@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ queue_pair - Debug ]----------"
-	@cd "queue_pair" && "$(MAKE)" -f  "queue_pair.mk"
+	@echo "----------Building project:[ typesetting - Debug ]----------"
+	@cd "typesetting" && "$(MAKE)" -f  "typesetting.mk"
 clean:
-	@echo "----------Cleaning project:[ queue_pair - Debug ]----------"
-	@cd "queue_pair" && "$(MAKE)" -f  "queue_pair.mk" clean
+	@echo "----------Cleaning project:[ typesetting - Debug ]----------"
+	@cd "typesetting" && "$(MAKE)" -f  "typesetting.mk" clean

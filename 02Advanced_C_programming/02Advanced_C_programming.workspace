@@ -8,7 +8,10 @@
   <Project Name="influenza_infection" Path="influenza_infection/influenza_infection.project" Active="No"/>
   <Project Name="word_reverse" Path="word_reverse/word_reverse.project" Active="No"/>
   <Project Name="collatz_conjecture" Path="collatz_conjecture/collatz_conjecture.project" Active="No"/>
-  <Project Name="queue_pair" Path="queue_pair/queue_pair.project" Active="Yes"/>
+  <Project Name="queue_pair" Path="queue_pair/queue_pair.project" Active="No"/>
+  <Project Name="sum_of_edge_elements" Path="sum_of_edge_elements/sum_of_edge_elements.project" Active="No"/>
+  <Project Name="diagonal_traversal" Path="diagonal_traversal/diagonal_traversal.project" Active="No"/>
+  <Project Name="typesetting" Path="typesetting/typesetting.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -21,6 +24,9 @@
       <Project Name="word_reverse" ConfigName="Debug"/>
       <Project Name="collatz_conjecture" ConfigName="Debug"/>
       <Project Name="queue_pair" ConfigName="Debug"/>
+      <Project Name="sum_of_edge_elements" ConfigName="Debug"/>
+      <Project Name="diagonal_traversal" ConfigName="Debug"/>
+      <Project Name="typesetting" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -33,6 +39,9 @@
       <Project Name="word_reverse" ConfigName="Release"/>
       <Project Name="collatz_conjecture" ConfigName="Release"/>
       <Project Name="queue_pair" ConfigName="Release"/>
+      <Project Name="sum_of_edge_elements" ConfigName="Release"/>
+      <Project Name="diagonal_traversal" ConfigName="Release"/>
+      <Project Name="typesetting" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
