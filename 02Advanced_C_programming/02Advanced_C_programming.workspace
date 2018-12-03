@@ -11,7 +11,10 @@
   <Project Name="queue_pair" Path="queue_pair/queue_pair.project" Active="No"/>
   <Project Name="sum_of_edge_elements" Path="sum_of_edge_elements/sum_of_edge_elements.project" Active="No"/>
   <Project Name="diagonal_traversal" Path="diagonal_traversal/diagonal_traversal.project" Active="No"/>
-  <Project Name="typesetting" Path="typesetting/typesetting.project" Active="Yes"/>
+  <Project Name="typesetting" Path="typesetting/typesetting.project" Active="No"/>
+  <Project Name="ward_of_hospital" Path="ward_of_hospital/ward_of_hospital.project" Active="No"/>
+  <Project Name="match_base_chain" Path="match_base_chain/match_base_chain.project" Active="Yes"/>
+  <Project Name="find_top" Path="find_top/find_top.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -27,6 +30,9 @@
       <Project Name="sum_of_edge_elements" ConfigName="Debug"/>
       <Project Name="diagonal_traversal" ConfigName="Debug"/>
       <Project Name="typesetting" ConfigName="Debug"/>
+      <Project Name="ward_of_hospital" ConfigName="Debug"/>
+      <Project Name="match_base_chain" ConfigName="Debug"/>
+      <Project Name="find_top" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -42,6 +48,9 @@
       <Project Name="sum_of_edge_elements" ConfigName="Release"/>
       <Project Name="diagonal_traversal" ConfigName="Release"/>
       <Project Name="typesetting" ConfigName="Release"/>
+      <Project Name="ward_of_hospital" ConfigName="Release"/>
+      <Project Name="match_base_chain" ConfigName="Release"/>
+      <Project Name="find_top" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
