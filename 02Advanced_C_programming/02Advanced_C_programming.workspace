@@ -13,8 +13,13 @@
   <Project Name="diagonal_traversal" Path="diagonal_traversal/diagonal_traversal.project" Active="No"/>
   <Project Name="typesetting" Path="typesetting/typesetting.project" Active="No"/>
   <Project Name="ward_of_hospital" Path="ward_of_hospital/ward_of_hospital.project" Active="No"/>
-  <Project Name="match_base_chain" Path="match_base_chain/match_base_chain.project" Active="Yes"/>
+  <Project Name="match_base_chain" Path="match_base_chain/match_base_chain.project" Active="No"/>
   <Project Name="find_top" Path="find_top/find_top.project" Active="No"/>
+  <Project Name="k_threes" Path="k_threes/k_threes.project" Active="No"/>
+  <Project Name="second_most_frequented_letter" Path="second_most_frequented_letter/second_most_frequented_letter.project" Active="No"/>
+  <Project Name="operator_discriminant" Path="operator_discriminant/operator_discriminant.project" Active="Yes"/>
+  <Project Name="find_maximum_on_plane" Path="find_maximum_on_plane/find_maximum_on_plane.project" Active="No"/>
+  <Project Name="path_of_maze" Path="path_of_maze/path_of_maze.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -33,6 +38,11 @@
       <Project Name="ward_of_hospital" ConfigName="Debug"/>
       <Project Name="match_base_chain" ConfigName="Debug"/>
       <Project Name="find_top" ConfigName="Debug"/>
+      <Project Name="k_threes" ConfigName="Debug"/>
+      <Project Name="second_most_frequented_letter" ConfigName="Debug"/>
+      <Project Name="operator_discriminant" ConfigName="Debug"/>
+      <Project Name="find_maximum_on_plane" ConfigName="Debug"/>
+      <Project Name="path_of_maze" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -51,6 +61,11 @@
       <Project Name="ward_of_hospital" ConfigName="Release"/>
       <Project Name="match_base_chain" ConfigName="Release"/>
       <Project Name="find_top" ConfigName="Release"/>
+      <Project Name="k_threes" ConfigName="Release"/>
+      <Project Name="second_most_frequented_letter" ConfigName="Release"/>
+      <Project Name="operator_discriminant" ConfigName="Release"/>
+      <Project Name="find_maximum_on_plane" ConfigName="Release"/>
+      <Project Name="path_of_maze" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
