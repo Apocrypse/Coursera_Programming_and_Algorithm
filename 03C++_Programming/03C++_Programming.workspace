@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="03C++_Programming" Database="" Version="10.0.0">
+  <Project Name="A_plus_B" Path="A_plus_B/A_plus_B.project" Active="Yes"/>
+  <Project Name="student_information" Path="student_information/student_information.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="A_plus_B" ConfigName="Debug"/>
+      <Project Name="student_information" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="A_plus_B" ConfigName="Release"/>
+      <Project Name="student_information" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
