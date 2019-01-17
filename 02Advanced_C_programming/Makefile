@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ operator_discriminant - Debug ]----------"
-	@cd "operator_discriminant" && "$(MAKE)" -f  "operator_discriminant.mk"
+	@echo "----------Building project:[ student_information - Debug ]----------"
+	@cd "student_information" && "$(MAKE)" -f  "student_information.mk"
 clean:
-	@echo "----------Cleaning project:[ operator_discriminant - Debug ]----------"
-	@cd "operator_discriminant" && "$(MAKE)" -f  "operator_discriminant.mk" clean
+	@echo "----------Cleaning project:[ student_information - Debug ]----------"
+	@cd "student_information" && "$(MAKE)" -f  "student_information.mk" clean

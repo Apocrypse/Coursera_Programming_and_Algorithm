@@ -17,8 +17,8 @@
   <Project Name="find_top" Path="find_top/find_top.project" Active="No"/>
   <Project Name="k_threes" Path="k_threes/k_threes.project" Active="No"/>
   <Project Name="second_most_frequented_letter" Path="second_most_frequented_letter/second_most_frequented_letter.project" Active="No"/>
-  <Project Name="operator_discriminant" Path="operator_discriminant/operator_discriminant.project" Active="Yes"/>
-  <Project Name="find_maximum_on_plane" Path="find_maximum_on_plane/find_maximum_on_plane.project" Active="No"/>
+  <Project Name="operator_discriminant" Path="operator_discriminant/operator_discriminant.project" Active="No"/>
+  <Project Name="find_maximum_on_plane" Path="find_maximum_on_plane/find_maximum_on_plane.project" Active="Yes"/>
   <Project Name="path_of_maze" Path="path_of_maze/path_of_maze.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
