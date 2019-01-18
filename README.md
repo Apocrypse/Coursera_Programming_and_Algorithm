@@ -1,3 +1,3 @@
 # Programming and Algorithm
 
-C++ code for Peking Univerisity course programming and algorithm
+C++ code for Peking Univerisity course Programming and Algorithm
